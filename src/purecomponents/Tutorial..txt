@@ -1,0 +1,6 @@
+Regular Component                                        Pure Component 
+
+A Regular component does not                      A pure component on the otherhand implements                                                 
+implement the shouldComponentUpdate method.       shouldComponentUpdate with shallow props and 
+It always returns true by default                 state comparision
+

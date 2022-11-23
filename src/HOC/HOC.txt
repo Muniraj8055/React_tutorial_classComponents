@@ -1,0 +1,13 @@
+Why do we need Higher order component?
+
+*To share the common functionlity between the components
+
+What is Higher order component?
+
+A pattern where a function takes a component as an argument and returns a new component
+ex:
+    const NewComponent = higherOderComponent(originalComponent)
+
+    const IronMan = withSuit(TonyStark)
+
+
